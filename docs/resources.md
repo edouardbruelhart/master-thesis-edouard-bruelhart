@@ -1,5 +1,5 @@
 # Institutions
-- Earth Metabolome Initiative: http://www.earthmetabolome.org/
+- Earth Metabolome Initiative: [http://www.earthmetabolome.org/]
 
 - Digital Botanical Gardens Initiative: https://www.dbgi.org/
 
